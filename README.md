@@ -2,29 +2,22 @@
 
 > A curated list of tools that help reduce waste on the planet, zero waste.
 
+Zero waste is a set of principles to ultimately reduce the amount of trash sent to landfills, incinerators, oceans, or any part of the environment ([Wikipedia](https://en.wikipedia.org/wiki/Zero_waste)).
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Awesome Zero Waste Tools ](#awesome-zero-waste-tools-)
+  - [Contents](#contents)
+  - [Trash Bin Sign-Makers](#trash-bin-sign-makers)
+  - [Contribute](#contribute)
 
+## Trash Bin Sign-Makers
 
-## Section
+Tools to help create bin signage to reduce improper sorting and contamination.
 
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
+- [Stop Waste Sign Maker Tool](https://www.stopwaste.org/tools/signmaker)
+- [SF Recycles Make a Sign!](https://sfrecycles.org/signmaker)
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
