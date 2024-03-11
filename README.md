@@ -8,8 +8,12 @@ Zero waste is a set of principles to ultimately reduce the amount of trash sent 
 
 - [Awesome Zero Waste Tools ](#awesome-zero-waste-tools-)
   - [Contents](#contents)
+  - [Plastic Recycling](#plastic-recycling)
   - [Trash Bin Sign-Makers](#trash-bin-sign-makers)
   - [Contribute](#contribute)
+
+## Plastic Recycling
+- [Precious Plastic](https://www.preciousplastic.com/) - Learn how to start a plastics recycling business.
 
 ## Trash Bin Sign-Makers
 
