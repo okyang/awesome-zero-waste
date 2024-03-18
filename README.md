@@ -8,11 +8,17 @@ Zero waste is a set of principles to ultimately reduce the amount of trash sent 
 
 - [Awesome Zero Waste Tools ](#awesome-zero-waste-tools-)
   - [Contents](#contents)
+  - [Trash Object Detection](#trash-object-detection)
   - [Plastic Recycling](#plastic-recycling)
   - [Trash Bin Sign-Makers](#trash-bin-sign-makers)
   - [Contribute](#contribute)
 
+## Trash Object Detection
+
+- [TACO](https://github.com/pedropro/TACO) - Trash Annotations in Context Dataset Toolkit is a dataset of waste in the wild. Images of waste are annotated and can be used for training datasets.
+
 ## Plastic Recycling
+
 - [Precious Plastic](https://www.preciousplastic.com/) - Learn how to start a plastics recycling business.
 
 ## Trash Bin Sign-Makers
