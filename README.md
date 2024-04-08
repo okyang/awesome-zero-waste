@@ -17,6 +17,7 @@ Zero waste is a set of principles to ultimately reduce the amount of trash sent 
 ## Plastic Recycling
 
 - [Precious Plastic](https://www.preciousplastic.com/) - Learn how to start a plastics recycling business.
+- [Brothers Make](https://www.youtube.com/@BrothersMake) - A Youtube channel of two brothers who design and make 100% recycled plastic projects.
 
 ## Trash Sign-Makers
 
