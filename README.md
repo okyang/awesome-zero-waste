@@ -1,4 +1,4 @@
-# Awesome Zero Waste Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Zero Waste [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of tools that help reduce waste on the planet, zero waste.
 
