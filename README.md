@@ -9,6 +9,7 @@ Zero waste is a set of principles to ultimately reduce the amount of trash sent 
 - [Awesome Zero Waste Tools ](#awesome-zero-waste-tools-)
   - [Contents](#contents)
   - [Plastic Recycling](#plastic-recycling)
+  - [Paid Recycling Services](#paid-recycling-services)
   - [Trash Sign-Makers](#trash-sign-makers)
   - [Trash Object Detection](#trash-object-detection)
   - [Waste Auditing](#waste-auditing)
@@ -19,12 +20,19 @@ Zero waste is a set of principles to ultimately reduce the amount of trash sent 
 - [Precious Plastic](https://www.preciousplastic.com/) - Learn how to start a plastics recycling business.
 - [Brothers Make](https://www.youtube.com/@BrothersMake) - A Youtube channel of two brothers who design and make 100% recycled plastic projects.
 
+## Paid Recycling Services
+
+These are companies that provide paid subscription services to recycle specific items such as textiles.
+
+- [Trashie](https://www.trashie.io/) - Buy a "take back bag", put textiles or e-waste in, ship it, then get rewards for it. They try to keep it out of landfill for you.
+- [Retold](https://www.retoldrecycling.com) - Buy a Retold bag, put textiles in, and they keep it out of landfill.
+
 ## Trash Sign-Makers
 
 Tools to help create bin signage to reduce improper sorting and contamination.
 
 - [Stop Waste Sign Maker Tool](https://www.stopwaste.org/tools/signmaker)
-- [SF Recycles Make a Sign!](https://sfrecycles.org/signmaker)
+- [San Francisco Recycles Make a Sign!](https://sfrecycles.org/signmaker)
 
 ## Trash Object Detection
 
