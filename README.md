@@ -45,6 +45,18 @@ Resources to help you host your own waste audit.
 - [Grades of Green LAUNCH Toolkit](https://gradesofgreen.org/welcome-to-launch/launch-toolkit-waste-audit/) - A waste audit toolkit that has resources for hosting your own waste audit at school.
 - [Stop Waste School Waste Audit Resources](https://www.stopwaste.org/stopwaste-school-waste-audit-resources) - Resources for conducting a waste audit at school. Includes sample custodian letter, worksheets, procedures, example waste audits, etc.
 
+## 2nd-hand Markets
+Sell/give your old stuff or buy/get 2nd hand.
+
+- [Buy Nothing Project](https://buynothingproject.org/) - Buy Nothing and share things with your community.
+- [Poshmark](https://poshmark.com/) - Mainly selling or buying used clothing.
+
+## Books
+- [Can I Recyle This: A Guide to Better Recycling and How to Reduce Single-Use Plastics](https://www.penguinrandomhouse.com/books/639336/can-i-recycle-this-by-jennie-romer-illustrated-by-christie-young/) - The first illustrated guidebook that answers the age-old question: Can I Recycle This?
+
+## Policy
+- [Extended Producer Responsibility](https://en.wikipedia.org/wiki/Extended_producer_responsibility) - "[EPR] is an environmental protection strategy to reach an environmental objective of a decreased total environmental impact of a product, by making the manufacturer of the product responsible for the entire life-cycle of the product and especially for the take-back, recycling and final disposal."
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
